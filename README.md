@@ -1,1 +1,1 @@
-# crown-prime-frontend
+# Crown Prime Casino Frontend
